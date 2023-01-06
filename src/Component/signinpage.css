@@ -1,0 +1,60 @@
+.formdangnhap {
+    padding: 15px;
+    text-align: center;
+    background-color: #ebebeb;
+}
+.labelinputemail {
+    font-size: 15px;
+    margin-bottom: 5px;
+    text-align: left;
+    margin-left: 400px;
+}
+
+.textquenmatkhau {
+    font-size: 15px;
+    margin-bottom: 5px;
+    color: rgb(2, 100, 200);
+}
+
+.textquenmatkhau:hover {
+    text-decoration: underline;
+}
+
+.inputemailhoacdidong {
+    width: 270px;
+    height: 35px;
+    border-radius:10px;
+    border: 2px solid rgb(187, 187, 187);
+}
+
+.inputmatkhau {
+    width: 270px;
+    height: 35px;
+    border-radius:10px;
+    border: 2px solid rgb(187, 187, 187);
+}
+
+.labelcheckboxhienthimatkhau {
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.btndangnhap {
+    border-radius: 7px;
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+     font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.checkboxhienthi{
+    margin-top: 18px;
+}
+.dangkynhanh {
+    color: rgb(1, 148, 243);
+}

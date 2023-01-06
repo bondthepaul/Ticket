@@ -1,0 +1,53 @@
+.Input-sp{   
+    width: 270px;
+    height: 35px;
+    border-radius:10px;
+    border: 2px solid rgb(187, 187, 187);
+}
+.Input-sp:hover{
+    border: 2px solid rgb(0, 0, 0);
+}
+.App1{
+    padding: 100px;
+    background-color: #d3d3d3;
+    background-image: url('img/Airport.jpg');
+    background-size: 2400px 1599px;
+}
+.divTong3{
+    margin-left: 35%;
+    display: flex;
+}
+.FormChuyenBay{
+    width: 600px;
+    height: 45px;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #ffffff;
+}
+.FormTaoChuyenBay1{
+    margin: auto;
+    width: 600px;
+    height: 450px;
+    border-radius: 10px;
+    padding: 15px;  
+    background-color: #ffffff;
+    box-shadow: 2.5px 2.5px 2.5px 2.5px #b4b4b4;
+}
+.btnTao{
+    
+     width: 100px;
+     height: 35px;
+     background-color: #0bdf52;
+     border-radius: 6px;
+     color:white;
+     text-align: center;
+     font-weight: bold ;
+     font-size: 15px;
+     padding: 10px 5px;
+     border: transparent;
+}
+.ThongTin{
+   font-weight:bold;
+   margin-bottom: 10px;
+}
+

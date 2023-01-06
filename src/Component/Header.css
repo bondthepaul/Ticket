@@ -1,0 +1,10 @@
+.Header{
+    background-image: url("sky.jpg");
+    padding: 100px 50px;
+    color: rgb(226, 248, 254);
+    border-left: 5px solid black;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-right: 5px solid rgb(214, 255, 221);
+    border-top-left-radius: 50px;
+}

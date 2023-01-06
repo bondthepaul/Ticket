@@ -1,0 +1,49 @@
+.Input-sp{   
+    height: 35px;
+    border-radius:10px;
+    border: 2px solid rgb(187, 187, 187);
+}
+.Input-sp:hover{
+    border: 2px solid rgb(0, 0, 0);
+}
+.App{
+    padding: 100px;
+    background-color: #F2F3F3;
+}
+.Button-sp{
+    margin-top: 10px;
+    width: 100px;
+    height: 35px;
+    background-color: #FF5E1F;
+    border-radius: 6px;
+    color:white;
+    text-align: center;
+    font-weight: bold ;
+    font-size: 15px;
+    padding: 10px 5px;
+    border: transparent;
+}
+.Select-option1{ 
+    
+    width: 460px;
+    height: 40px;   
+    border-radius:10px;
+    border: 2px solid rgb(187, 187, 187);
+    
+}
+.Button-sp:hover{
+    width: 100px;
+    height: 35px;
+    background-color: #d4501c;
+    border-radius: 6px;
+    color:white;
+    text-align: center;
+    font-weight: bold ;
+    font-size: 15px;
+    padding: 10px 5px;
+    border: transparent;
+}
+.Button-sp:active{
+    background-color: #472619;
+    color: aqua;  
+}

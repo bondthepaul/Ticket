@@ -1,0 +1,159 @@
+.Select-option{
+  width: 200px;
+  background-color: white;
+  height: 35px;
+  border-radius: 6px ;
+  border: #CDD0D1 solid 0.1px;
+  width: 165px;
+}
+.Checkallbox{
+ padding: 0px 0px 20px 0px; 
+ font: bold; 
+}
+.box{
+
+border-radius: 50%;
+}
+.popupbutton{
+display: none;
+}
+.Select-option:hover{
+ border: #000000 solid 1px;
+}
+.Form{
+left: 200px;
+background-color: white;
+height: 35px;
+border-radius: 6px ;
+border: #CDD0D1 solid 1px;
+width: 165px;
+margin-right: 10px;
+margin-bottom: 10px;
+}
+.Form:hover{
+ border:#000000 solid 1px;
+}
+.Form1{
+left: 200px;
+background-color: white;
+height: 35px;
+border-radius: 6px ;
+border: #CDD0D1 solid 1px;
+width: 165px;
+margin-right: 10px;
+margin-bottom: 10px;
+}
+.Form1:hover{
+ border:#000000 solid 1px;
+}
+.Form2{
+   left: 200px;
+   background-color: white;
+   height: 35px;
+   border-radius: 6px ;
+   border: #CDD0D1 solid 1px;
+   width: 165px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+   }
+.Form2:hover{
+    border:#000000 solid 1px;
+   }
+.Special-button{
+background-color: #FF5E1F;
+border-radius: 6px;
+color:white;
+text-align: center;
+font-weight: bold ;
+font-size: 15px;
+padding: 10px 5px;
+border: transparent;
+text-decoration: none;
+}
+.Special-button:hover{
+ background-color: #da521d;
+ border-radius: 6px;
+ color:white;
+ text-align: center;
+ font-weight: bold ;
+ font-size: 15px;
+ padding: 10px 5px;
+ border: transparent;
+ 
+ text-decoration: none;
+}
+.Special-button:active{
+ background-color: #472619;
+ color: aqua;  
+}
+.Special-button-add{
+ background-color: #76c780;
+ border-radius: 6px;
+ color:white;
+ text-align: center;
+ font-weight: bold ;
+ font-size: 15px;
+ padding: 5px 5px;
+ border: transparent;
+ margin-right: 10px;
+ margin-bottom: 10px;
+ text-decoration: none;
+}
+.Special-button-add:hover{
+ background-color: #549b5c;
+ border-radius: 6px;
+ color:white;
+ text-align: center;
+ font-weight: bold ;
+ font-size: 15px;
+ padding: 5px 5px;
+ border: transparent;
+ margin-right: 10px;
+ margin-bottom: 10px;
+ text-decoration: none;
+}
+.Special-button-add:active{
+   background-color: #599134;
+   color: rgb(240, 233, 144);  
+}
+.Special-button-delete{
+ background-color: #d35645;
+ border-radius: 6px;
+ color:white;
+ text-align: center;
+ font-weight: bold ;
+ font-size: 15px;
+ padding: 5px 5px;
+ border: transparent;   
+ text-decoration: none;
+ margin-right: 50px;
+}
+.Special-button-delete:hover{
+ background-color: #9e3d30;
+ border-radius: 6px;
+ color:white;
+ text-align: center;
+ font-weight: bold ;
+ font-size: 15px;
+ padding: 5px 5px;
+ border: transparent;   
+ text-decoration: none;
+ margin-right: 50px;
+}
+.Special-button-delete:active{
+   background-color: #882b28;
+   color: rgb(240, 144, 208);  
+}
+.Content{
+
+ padding: 72px 50px;
+ background-color: #ffffff;
+ border-top: 1.5px solid black;
+ border-bottom: 1.5px solid black;
+ border-right: 1.5px solid black;
+ border-top-right-radius: 15px;
+ border-bottom-right-radius: 15px;   
+}
+.Content{
+color: #000000;
+}

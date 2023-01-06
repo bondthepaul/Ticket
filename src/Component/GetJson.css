@@ -1,0 +1,58 @@
+.Ticket-table{
+     padding-top: 40px;
+     display:flex;
+     align-content: center;
+     justify-content: center;
+     border-collapse: collapse;
+     background-color: #F2F3F3;
+}
+.Ticket-table th{
+     border: 0.5px solid black;
+     border-radius: 5px;
+     min-width: 150px;
+     background-color: white;
+}
+.TRTR{
+     height: 150px;
+     font-weight: 520;
+     border-radius: 8px;
+     margin-bottom: 10px;
+     box-shadow: 2.5px 2.5px #b4b4b4;
+}
+.TRTR td{
+    
+    text-align: center;
+    background-color: #ffffff;
+}
+
+.Button-sp{
+     width: 100px;
+     height: 35px;
+     background-color: #FF5E1F;
+     border-radius: 6px;
+     color:white;
+     text-align: center;
+     font-weight: bold ;
+     font-size: 15px;
+     padding: 10px 5px;
+     border: transparent;
+ }
+ .Button-sp:hover{
+     width: 100px;
+     height: 35px;
+     background-color: #d4501c;
+     border-radius: 6px;
+     color:white;
+     text-align: center;
+     font-weight: bold ;
+     font-size: 15px;
+     padding: 10px 5px;
+     border: transparent;
+ }
+ .Button-sp:active{
+     background-color: #472619;
+     color: aqua;  
+ }
+ h1{
+      text-align: center;
+ }
